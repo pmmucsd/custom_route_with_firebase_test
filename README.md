@@ -1,3 +1,7 @@
-# simple_route_text
+# custom_route_with_firebase_test
 
-A new Flutter project.
+Simple app that can be deployed via firebase hosting to test custom routes with paths
+
+Deployed version: 
+- https://custom-routing-test.web.app/ (works)
+- https://custom-routing-test.web.app/page-two (does not work)
